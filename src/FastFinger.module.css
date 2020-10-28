@@ -1,0 +1,7 @@
+.background {
+  background-image: "url( '../../Group 243.svg' )";
+
+  width: "100%";
+  height: "1000px";
+  z-index: -1;
+}
